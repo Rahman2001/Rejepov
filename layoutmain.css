@@ -1,0 +1,127 @@
+    * {
+        font-family: Arial, Vendana, sans-serif;
+        color: saddlebrown;
+        text-align: center;
+    }
+    
+    body {
+        width: 100%;
+        margin: 0 auto;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    
+    #footer {
+        clear: both;
+        margin: 0%;
+        border-bottom-color: #6c04c4;
+        border-bottom-style: solid;
+        border-bottom-width: thick;
+        width: 100%;
+        margin-bottom: 0px;
+        height: auto;
+        position: relative;
+        top: 100%;
+    }
+    
+    #links.box {
+        width: 2.2%;
+        height: auto;
+        display: inline;
+    }
+    
+    img.links {
+        width: 2.2%;
+        height: auto;
+        display: inline;
+        position: relative;
+        left: 44%;
+    }
+    
+    #links.box {
+        width: 2.2%;
+        height: auto;
+        display: inline;
+    }
+    
+    img.links {
+        width: 2.2%;
+        height: auto;
+        display: inline;
+        position: relative;
+        left: 44%;
+    }
+    
+    #nav {
+        border-radius: 10px;
+        padding-right: 3%;
+        margin-top: 3%;
+        margin-bottom: 70px;
+        margin-left: 0%;
+        margin-right: 0%;
+        position: relative;
+        top: 65px;
+        word-spacing: 5em;
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    li {
+        margin: 5px;
+        display: inline;
+        text-decoration: none;
+    }
+    
+    #content1,
+    #content2 {
+        width: 16%;
+        min-height: 31em;
+        max-height: auto;
+        padding: 5px;
+        margin: 1%;
+        float: left;
+        border-bottom: double purple;
+        border-top: solid darkgoldenrod;
+        border-radius: 10px;
+    }
+    
+    .article {
+        width: 56%;
+        min-height: 30em;
+        max-height: auto;
+        background-color: #f8d9d9e3;
+        padding: 5px;
+        margin: 1%;
+        float: left;
+        border-bottom-color: darkorange;
+        border-bottom-style: double;
+        border-top-style: solid;
+        border-radius: 10px;
+    }
+    
+    #header {
+        background-color: #6c04c4;
+        text-align: center;
+        width: 100%;
+        padding-top: 15px;
+        margin: 0%;
+        height: 65px;
+        margin-top: 0px;
+        position: fixed;
+        top: 0px;
+        z-index: 10;
+    }
+    
+    #contents_all.box {
+        min-width: 32%;
+        max-width: 97%;
+        min-height: 15em;
+        max-height: auto;
+    }
+    
+    #contents_all {
+        margin-left: 3%;
+        margin-right: 1%;
+    }

@@ -1,0 +1,22 @@
+#history,
+#Mission,
+#Vision,
+strong {
+    font-family: 'Thasadith';
+    font-size: 1em;
+    color: brown;
+}
+
+a.Read {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a.Read:hover {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+a.Read:active {
+    color: yellow;
+}

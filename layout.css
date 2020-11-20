@@ -1,0 +1,102 @@
+html {
+    background: url("gradient_sky.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+a.link {
+    font-family: Abril Fatface;
+    font-size: x-large;
+    color: #e5d306;
+}
+
+a.link:visited {
+    color: none;
+}
+
+a.link:hover {
+    color: purple;
+}
+
+a.link:active {
+    color: yellow;
+}
+
+img.mainpic {
+    width: 100%;
+    height: auto;
+    margin-bottom: 4%;
+    border-bottom: solid 2px, black;
+}
+
+.paragraph {
+    column-count: 1;
+    padding: 0%;
+    column-width: 53%;
+    height: auto;
+    word-break: break-all;
+    break-after: always;
+}
+
+img.awards {
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-bottom: 15%;
+}
+
+img.awards1 {
+    width: 60%;
+    height: auto;
+    margin-bottom: 15%;
+}
+
+img.awards2 {
+    width: 60%;
+    height: auto;
+    margin-bottom: 10%;
+}
+
+.news1 {
+    width: 95%;
+    height: auto;
+    margin-bottom: 3%;
+    margin-left: 2%;
+}
+
+.news_1 {
+    color: #cdc5b5;
+    text-decoration: underline;
+    font-family: Cormorant Garamond;
+    font-size: 1.5em;
+    position: relative;
+    bottom: 35px;
+    margin-bottom: 20px;
+}
+
+.news_1:hover {
+    color: white;
+}
+
+.news_1:active {
+    color: skyblue;
+}
+
+.news_1:visited {
+    color: none;
+}
+
+#quote {
+    font-family: Cormorant Garamond;
+    font-size: 2em;
+    color: black;
+}
+
+.News_Section {
+    font-family: Big Shoulders Stencil Display;
+    color: white;
+    margin-bottom: 15px;
+    font-size: 1.5em;
+    letter-spacing: 0.2em;
+}

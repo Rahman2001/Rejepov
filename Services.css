@@ -1,0 +1,53 @@
+#head,
+#head2,
+#head3,
+#head4 {
+    font-family: 'Thasadith';
+    font-size: 3em;
+    color: #6a8cda;
+}
+
+#head2,
+#head3 {
+    color: #0944ca;
+    font-size: 1em;
+}
+
+#about {
+    color: blue;
+    font-family: 'Thasadith';
+    font-size: 1em;
+    text-decoration: underline;
+}
+
+img.sections {
+    width: 30%;
+    height: auto;
+    margin: auto;
+    margin-right: 2%;
+    margin-bottom: 3%;
+    margin-left: 3%;
+}
+
+img.sections2 {
+    width: 20%;
+    height: auto;
+    margin-right: 5px;
+    margin-left: 2px;
+    float: left;
+    margin-top: 5%;
+}
+
+#info {
+    column-count: 1;
+    word-break: break-all;
+}
+
+#Express,
+#Ground,
+#Freight,
+#Office {
+    font-family: 'Quicksand';
+    color: blue;
+    font-weight: bolder;
+}
